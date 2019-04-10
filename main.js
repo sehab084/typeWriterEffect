@@ -52,6 +52,7 @@
 // }
 
 // ES6 Class
+
 class TypeWriter {
   constructor(txtElement, words, wait = 2000) {
     this.txtElement = txtElement;
